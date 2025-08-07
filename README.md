@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rivka Bringer
+# 👋 Hi, I'm Rivka Bringer - FullStack Developer
 
 Welcome to my GitHub profile! I'm passionate about software development, open source, and building impactful solutions.
 
@@ -18,7 +18,6 @@ I'm always learning new technologies and best practices — currently exploring 
 
 ## 📫 Connect With Me
 - **GitHub:** [github.com/RivkaEisenstein](https://github.com/RivkaEisenstein)
-- **LinkedIn:** [linkedin.com/in/rivka-eisenstein](https://www.linkedin.com/in/rivka-eisenstein)
 
 ## 📋 How to Use My Code
 Check individual repositories for setup instructions and documentation. I follow best practices for code structure and readability.

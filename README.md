@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Rivka Bringer — 
+# 👋 Hi, I'm Rivka Bringer
 Fullstack Developer (5+ Years Experience)
 
-Welcome to my GitHub profile! I’m a passionate fullstack developer with five years of professional experience building impactful software solutions.
+Welcome to my GitHub profile!
+I’m a passionate fullstack developer with five years of professional experience building impactful software solutions.
 
 ## 🚀 About Me
 - **Fullstack Developer:** I specialize in end-to-end application development, from frontend interfaces to backend logic and automation.
 - **ServiceNow Developer:** Experienced in building and customizing ServiceNow applications and workflows.
 - **Languages I Know:** 
-  - Python
+  - AngularJS
   - JavaScript
-  - TypeScript
-  - Java
-  - C#
+  - MySQL
+  - React
+  - Python
   - HTML & CSS
   - SQL
-  - Shell scripting
   - GlideScript (ServiceNow)
   - And more.
 

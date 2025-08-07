@@ -1,20 +1,32 @@
-# 👋 Hi, I'm Rivka Bringer - FullStack Developer
+# 👋 Hi, I'm Rivka Bringer — 
+Fullstack Developer (5+ Years Experience)
 
-Welcome to my GitHub profile! I'm passionate about software development, open source, and building impactful solutions.
+Welcome to my GitHub profile! I’m a passionate fullstack developer with five years of professional experience building impactful software solutions.
 
 ## 🚀 About Me
-- **Developer & Creator:** I love working on projects that solve real-world problems and help developers.
-- **Languages:** Python, JavaScript, TypeScript, and more.
-- **Interests:** Web development, data science, automation, and community building.
+- **Fullstack Developer:** I specialize in end-to-end application development, from frontend interfaces to backend logic and automation.
+- **ServiceNow Developer:** Experienced in building and customizing ServiceNow applications and workflows.
+- **Languages I Know:** 
+  - Python
+  - JavaScript
+  - TypeScript
+  - Java
+  - C#
+  - HTML & CSS
+  - SQL
+  - Shell scripting
+  - GlideScript (ServiceNow)
+  - And more.
+
+## 🤖 AI & Today’s Learning
+Currently, I’m focused on learning advanced AI development — exploring how artificial intelligence can understand, analyze, and improve code (including my own projects on GitHub).
 
 ## 🛠️ My Projects
 Browse my repositories to explore:
 - Production-ready web apps
+- ServiceNow solutions and integrations
 - Data pipelines and automation tools
 - Tutorials and starter kits for developers
-
-## 🌱 What I'm Learning
-I'm always learning new technologies and best practices — currently exploring cloud services, scalable architectures, and advanced data analytics.
 
 ## 📫 Connect With Me
 - **GitHub:** [github.com/RivkaEisenstein](https://github.com/RivkaEisenstein)
@@ -25,4 +37,3 @@ Check individual repositories for setup instructions and documentation. I follow
 ---
 
 > *For more details, see documentation in each repository or reach out via GitHub Discussions.*
-
